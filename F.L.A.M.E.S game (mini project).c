@@ -21,7 +21,7 @@ int main()
     char *relate;
     printf("----------WELCOME TO F.L.A.M.E.S----------");
     printf("\nLet us find out what is in store for you!!\n");
-    printf("\nPlease enter the names in lowercase"):
+    printf("\nPlease enter the names in lowercase");
     printf("\nEnter First Name: ");
     gets(s1);
     printf("\nEnter Second Name: ");
